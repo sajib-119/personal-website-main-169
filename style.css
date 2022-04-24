@@ -61,6 +61,27 @@ p{
     padding-top: 75%;
     padding-bottom: 50%;
 }
+.black{
+    color: #333333;
+
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+.project{
+   
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
 /* Add a color to the active/current link 
 .topnav a.active {
